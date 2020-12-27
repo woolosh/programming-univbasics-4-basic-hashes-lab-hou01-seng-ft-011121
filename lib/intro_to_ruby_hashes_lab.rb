@@ -7,7 +7,7 @@ end
 
 def my_hash
 
-  my_hash = {:favorite_color: "blue"}
+  my_hash = {:favorite_color => "blue"}
   
 end
 
